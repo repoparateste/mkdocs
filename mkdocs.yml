@@ -3,5 +3,6 @@ pages:
       - Home: index.md
       - About: about.md
       - Introdução: introducao.md
+      - Franzininho: franzininho.md
 theme:
   name: 'material'
